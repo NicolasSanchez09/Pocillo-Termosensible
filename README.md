@@ -8,7 +8,9 @@ Es así que surge la idea de un pocillo termosensible, capaz de indicar con exac
 
 ## ¿Cómo lo llevamos a cabo?
 
-Tuvimos varios inconvenientes a la hora de materializar esta increíble idea, el primero fue pensar en los cómos: Cómo vamos a medir la temperatura, cómo vamos a juntar todo, cómo vamos a notificar al usuario cuando su bebida esté lista, cómo vamos a diseñar la PCB. Con todas estas dudas en la cabeza, fuimos adelantando el proyecto y resolviéndolas una por una; mediremos la temperatura con una sonda de 3V; para juntar todo, abandonamos la idea de modificar un pocillo y diseñamos un portavasos con todas las funciones que requerimos y el hardware escondido bajo el mismo; para notificar al usuario, haremos uso de un pequeño display y un buzzer, periféricos de uso sencillo pero efectivo; y lo más difícil del proyecto, definir cómo se va a hacer la PCB, para eso tuvimos que documentarnos profundamente acerca de la manufactura de esta tecnología, y realizar un boceto general del cómo se iba a conectar cada periférico a la ESP-32 usando una protoboard, que al final es una PCB al estilo brutalista.
+Tuvimos varios inconvenientes a la hora de materializar esta increíble idea, el primero fue pensar en los cómos: ¿Cómo vamos a medir la temperatura?, ¿cómo vamos a juntar todo?, ¿cómo vamos a notificar al usuario cuando su bebida esté lista?, ¿cómo vamos a diseñar la PCB?.
+
+Con todas estas dudas en la cabeza, fuimos adelantando el proyecto y resolviéndolas una por una; mediremos la temperatura con una sonda de 3V; para juntar todo, abandonamos la idea de modificar un pocillo y diseñamos un portavasos con todas las funciones que requerimos y el hardware escondido bajo el mismo; para notificar al usuario, haremos uso de un pequeño display y un buzzer, periféricos de uso sencillo pero efectivo; y lo más difícil del proyecto, definir cómo se va a hacer la PCB, para eso tuvimos que documentarnos profundamente acerca de la manufactura de esta tecnología, y realizar un boceto general del cómo se iba a conectar cada periférico a la ESP-32 usando una protoboard que, al final, es una PCB al estilo brutalista.
 
 # Las distintas fases del Proyecto
 
