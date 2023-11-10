@@ -24,4 +24,16 @@ En la que se dio solución a algunos de los "cómos" previamente enunciados. Por
 
 Como se aprecia en la imagen, hasta ese momento, no se tenía contemplado el uso de un buzzer para notificar al usuario, pero fue una buena idea que surgió más adelante junto con otras más, la importancia de esta etapa recae, principalmente en que, al tener que mirar cómo se va a llevar a cabo el proyecto, nos dimos cuenta de las diferentes dificultades que conllevaba, y fuimos capaces de coregir los fallos para evolucionar hacia un resultado más eficiente.
 
+Luego de realizar este diagrama, se decidió llevar a cabo el diagrama tecnológico, en el que se definiría concretamente qué dispositivo de hardware, ya sea sensor o actuador, se iba a usar para cada función como se puede ver en la siguiente imagen:
+
+![image](https://github.com/NicolasSanchez09/Pocillo-Termosensible/assets/145825532/5ad2268b-6cde-450f-bfbe-822f1ad6d677)
+
+Ahora bien, en este punto aún no se ha añadido el buzzer al plan de acción, pero para mostrar cuál es el que se va a usar, adjuntaré link de compra en mercado libre y una foto: https://articulo.mercadolibre.com.co/MCO-608847377-buzzer-alarma-chicharra-3v-a-24v-dc-zumbador-grande-arduino-_JM#position=1&search_layout=stack&type=item&tracking_id=e0f2a067-7c86-415b-b5b0-ef70a2830b28
+
+![image](https://github.com/NicolasSanchez09/Pocillo-Termosensible/assets/145825532/1673b827-4085-4ac0-b9c4-7491be77eac8)
+
+Una vez definidas las tecnologías con las que íbamos a trabajar, nos efrentábamos, sin saberlo, a la fase más difícil de este largo camino: La Fase de Acción.
+
+
+
 
