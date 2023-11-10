@@ -10,9 +10,16 @@ Es así que surge la idea de un pocillo termosensible, capaz de indicar con exac
 
 Tuvimos varios inconvenientes a la hora de materializar esta increíble idea, el primero fue pensar en los cómos: Cómo vamos a medir la temperatura, cómo vamos a juntar todo, cómo vamos a notificar al usuario cuando su bebida esté lista, cómo vamos a diseñar la PCB. Con todas estas dudas en la cabeza, fuimos adelantando el proyecto y resolviéndolas una por una; mediremos la temperatura con una sonda de 3V; para juntar todo, abandonamos la idea de modificar un pocillo y diseñamos un portavasos con todas las funciones que requerimos y el hardware escondido bajo el mismo; para notificar al usuario, haremos uso de un pequeño display y un buzzer, periféricos de uso sencillo pero efectivo; y lo más difícil del proyecto, definir cómo se va a hacer la PCB, para eso tuvimos que documentarnos profundamente acerca de la manufactura de esta tecnología, y realizar un boceto general del cómo se iba a conectar cada periférico a la ESP-32 usando una protoboard, que al final es una PCB al estilo brutalista.
 
-## Las distintas fases del Proyecto
+# Las distintas fases del Proyecto
 
-Como bien se resaltó en el anterior apartado, el proceso de creación del proyecto tuvo distintos percances, así que daremos un recorrido guiado por las distintas y más importantes fases de este proceso: Luego de la fase creativa, es decir, donde se definió el qué iba a ser el proyecto, empezó la fase de _*planeación*_, en la que se dio solución a algunos de los "cómos" previamente enunciados. Por ejemplo, en esta fase de planeación, definimos las tecnologías que se ibana usar, haciendo uso del diagrama de caja negra: ![image](https://github.com/NicolasSanchez09/Pocillo-Termosensible/assets/145825532/53749662-557d-44ff-9393-fc735cfd4337)
-Como se aprecia en la imagen, hasta ese momento, no se tenía contemplado el uso de un buzzer para notificar al usuario, pero fue una buena idea que surgió más adelante.
+Como bien se resaltó en el anterior apartado, el proceso de creación del proyecto tuvo distintos percances, así que daremos un recorrido guiado por las distintas y más importantes fases de este proceso: 
+
+## Fase de *planeación*
+
+En la que se dio solución a algunos de los "cómos" previamente enunciados. Por ejemplo, en esta fase de planeación, definimos las tecnologías que se ibana usar, haciendo uso del diagrama de caja negra:
+
+![image](https://github.com/NicolasSanchez09/Pocillo-Termosensible/assets/145825532/53749662-557d-44ff-9393-fc735cfd4337)
+
+Como se aprecia en la imagen, hasta ese momento, no se tenía contemplado el uso de un buzzer para notificar al usuario, pero fue una buena idea que surgió más adelante junto con otras más, la importancia de esta etapa recae, principalmente en que, al tener que mirar cómo se va a llevar a cabo el proyecto, nos dimos cuenta de las diferentes dificultades que conllevaba, y fuimos capaces de coregir los fallos para evolucionar hacia un resultado más eficiente.
 
 
