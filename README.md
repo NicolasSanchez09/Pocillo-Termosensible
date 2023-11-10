@@ -46,7 +46,7 @@ Finalmente, el diseño de las conecciones en Qucs quedó de la siguiente manera:
 
 ![image](https://github.com/NicolasSanchez09/Pocillo-Termosensible/assets/145825532/3799e650-d350-49ad-aabc-8187ab5e34b6)
 
-Y, con este "boceto" de circuito, la PCB quedaría de la siguiente manera, representada en 3D
+Y, con este "boceto" de circuito, la PCB quedaría de la siguiente manera, representada en 3D gracias a las herramientas de simulación de KiCad
 
 ![image](https://github.com/NicolasSanchez09/Pocillo-Termosensible/assets/145825532/59dbe784-b218-462a-b49f-ce4cf3d5b38d)
 
