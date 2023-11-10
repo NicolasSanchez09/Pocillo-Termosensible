@@ -34,6 +34,20 @@ Ahora bien, en este punto aún no se ha añadido el buzzer al plan de acción, p
 
 Una vez definidas las tecnologías con las que íbamos a trabajar, nos efrentábamos, sin saberlo, a la fase más difícil de este largo camino: La Fase de Acción.
 
+## Fase de *acción*
 
+Lo dicho, la fase más complicada del proceso. Al tratar de llevar todo a cabo y aterrizarlo al plano de la realidad, nos dimos cuenta de que realmente había mucho por corregir. Tuvimos que abandonar la idea de un pocillo como tal, debido a que no era práctico adicionar todo el hardware a un simple pocillo de cerámica, por sugerencia del profe, se decidió continuar con la misma idea pero desde una base para el pocillo, es decir, un portavasos con todas las funciones ya mencionadas. Se modeló la base y el soporte del display en OnShape para poderlo imprimir en PLA, se lo enviamos a El grandioso Carlos Mario, quien nos hizo el favor (a cambio de un módico precio) de imprimirlo. 
+
+Ya estaba la base del proyecto hablando en términos generales, pero en términos electrónicos, no había una base, una PCB a la que se pudiera conectar todo para su correcto funcionamiento. Y es con esta, aparentemente, simple tarea, que el proyecto se complicó en gran medida.
+
+Primero, realizar un diagrama de cómo se conectaría todo a la ESP-32, luego, estudiar cómo se transforma eso en una PCB, para finalmente, darnos cuenta de que estaba mal y tener que repetir ese mismo proceso al menos tres veces.
+
+Finalmente, el diseño de las conecciones en Qucs quedó de la siguiente manera: 
+
+![image](https://github.com/NicolasSanchez09/Pocillo-Termosensible/assets/145825532/3799e650-d350-49ad-aabc-8187ab5e34b6)
+
+Y, con este "boceto" de circuito, la PCB quedaría de la siguiente manera, representada en 3D
+
+![image](https://github.com/NicolasSanchez09/Pocillo-Termosensible/assets/145825532/59dbe784-b218-462a-b49f-ce4cf3d5b38d)
 
 
