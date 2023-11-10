@@ -12,6 +12,7 @@ Tuvimos varios inconvenientes a la hora de materializar esta increíble idea, el
 
 ## Las distintas fases del Proyecto
 
-Cómo bien se resaltó en el anterior apartado, el proceso de creación del proyecto tuvo distintos percances, así que daremos un recorrido guiado por las distintas y más importantes fases de este proceso.
+Como bien se resaltó en el anterior apartado, el proceso de creación del proyecto tuvo distintos percances, así que daremos un recorrido guiado por las distintas y más importantes fases de este proceso: Luego de la fase creativa, es decir, donde se definió el qué iba a ser el proyecto, empezó la fase de _*planeación*_, en la que se dio solución a algunos de los "cómos" previamente enunciados. Por ejemplo, en esta fase de planeación, definimos las tecnologías que se ibana usar, haciendo uso del diagrama de caja negra: ![image](https://github.com/NicolasSanchez09/Pocillo-Termosensible/assets/145825532/53749662-557d-44ff-9393-fc735cfd4337)
+Como se aprecia en la imagen, hasta ese momento, no se tenía contemplado el uso de un buzzer para notificar al usuario, pero fue una buena idea que surgió más adelante.
 
 
