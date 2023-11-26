@@ -59,3 +59,11 @@ Y, con este "boceto" de circuito, la PCB quedaría de la siguiente manera, repre
 ## Fase de manufactura y ensamble del proyecto
 
 Fue la fase final del proyecto, en la que ya una vez pensado todo y con los materiales necesarios en nuestras manos, fuimos capaces de ensamblar todo en la protoboard, sí, la protoboard, porque la PCB tuvo un fallo que nadie supo explicar, al conectar la ESP-32 saltaba un error y no corría el código que previamente había funcionado. A pesar de esto, decidimos volver a intentar desarrollar una PCB funcional sin lo que, a nuestra forma de verlo y con nuestros limitados conocimientos, era el culpable de que la pcb no funcionara correctamente, pues es lo único diferente entre la PCB y la protoboard: la tarjeta controladora de la batería cd42-mh. Así que se diseñó una nueva pcb sin ese componente para poder llevar a cabo el proyecto satisfactoriamente.
+
+Como se puede observar en la siguiente imagen, el prototipo funciona a la perfección sobre la protoboard:
+
+![image](https://github.com/NicolasSanchez09/Pocillo-Termosensible/assets/145825532/f6315fa9-3f93-44a8-bf95-fb854c79b029)
+
+
+Imagen de referencia de la nueva PCB corregida:
+
